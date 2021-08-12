@@ -3,7 +3,7 @@ body{
 }
 h1{
     font-weight: bold;
-    font
+    
 }
 
 .banner-container{
@@ -15,6 +15,9 @@ h1{
 }
 .nav-color{
     background-color: #7395AE;
+    position: sticky;
+    top: 0%;
+    z-index: 2;
 }
 .about-container{
     background-color: #A5B0FF;
@@ -38,4 +41,31 @@ h1{
 .img{
     height: 300px;
     width: 240px;
+}
+.form-container{
+    background-color: #68829E;
+}
+.inner-form{
+    background-color: #6E7A93;
+}
+.btn-color{
+    background-color: #956749;
+    color: white;
+}
+.btn-color:hover{
+    background-color: #956749;
+    color: black;
+}
+
+.footer{
+    background-color: #BCBABE;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #938E94;
+    font-size: 40px;
+    color: black;
 }
