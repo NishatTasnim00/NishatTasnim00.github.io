@@ -60,12 +60,12 @@ h1{
 .footer{
     background-color: #BCBABE;
 }
-.circle{
+.circle-f{
     width: 60px;
     height: 60px;
     border-radius: 50%;
     display: inline-block;
-    background-color: #938E94;
+    background-color: #8366B4;
     font-size: 40px;
-    color: black;
+    color: #041A65;
 }
